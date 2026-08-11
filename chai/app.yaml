@@ -1,0 +1,8 @@
+id: e_12
+name: 23e
+version: 1.0.3
+author: qzq
+icon: ''
+desc: 23年电赛e题12问
+files:
+  - main_e.py

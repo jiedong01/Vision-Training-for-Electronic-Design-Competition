@@ -1,0 +1,8 @@
+id: online_threshold
+name: online_threshold
+version: 1.0.6
+author: hqy1433
+icon: app.png
+desc: online_threshold is transplanted from V831
+files:
+  - main.py

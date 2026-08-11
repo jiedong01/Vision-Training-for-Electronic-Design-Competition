@@ -1,0 +1,8 @@
+id: xj
+name: 直线循迹
+version: 1.0.0
+author: dj
+icon: app.png
+desc: '1'
+files:
+  - main.py
